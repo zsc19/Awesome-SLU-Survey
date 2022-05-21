@@ -281,7 +281,7 @@ The taxonomy and frontiers of our survey can be summarized into this picture bel
 <tr>
 	<td><code> Schema-Guided Dialogue Dataset(SGD) </td></code>
 		<td> dialogue simulation(auto based on identified scenarios), word-replacement and human intergration as paraphrasing</td>
-		<td> Download:  https://github.com/google-researchdatasets/dstc8-schema-guided-dialogue Paper: https://arxiv.org/pdf/1909.05855.pdf </td>
+		<td> Download:  https://github.com/google-research-datasets/dstc8-schema-guided-dialogue Paper: https://arxiv.org/pdf/1909.05855.pdf </td>
 		<td> M                       </td>
 		<td> domains:16,dialogues:16142,turns:329964,acg turns per dialogue:20.44,total unique tokens:30352,slots:214,slot values:14319</td>
 		<td> NA </td>
