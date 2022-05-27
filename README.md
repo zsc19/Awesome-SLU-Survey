@@ -455,6 +455,7 @@ The taxonomy and frontiers of our survey can be summarized into this picture bel
 4. **Exploiting Shared Information for Multi-intent Natural Language Sentence Classification** (inhouse corpus from Microsoft) `Interspeech 2013` [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/08/double_intent.pdf)
 5. **Joint Multiple Intent Detection and Slot Filling Via Self-Distillation**  (MixATIS/MixSNIPS) `ICASSP 2022` 
 6. **Slim: Explicit Slot-Intent Mapping with Bert for Joint Multi-Intent Detection and Slot Filling**(MixATIS/MixSNIPS) `ICASSP 2022`
+7. **Exploiting Topic Information for Joint Intent Detection and Slot Filling**(MixATIS/MixSNIPS) `ACL 2022`
 ### Chinese SLU
 
 1. **Injecting Word Information with Multi-Level Word Adapter for Chinese Spoken Language Understanding** (CAIS/ECDT-NLU) `arXiv 2020` [[pdf]](https://arxiv.org/pdf/2010.03903.pdf) [[code]](https://github.com/AaronTengDeChuan/MLWA-Chinese-SLU) 
