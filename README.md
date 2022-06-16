@@ -531,6 +531,10 @@ The taxonomy and frontiers of our survey can be summarized into this picture bel
 3. **Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement** (SNIPS) `AAAI 2020`  [[pdf]](https://arxiv.org/pdf/1911.08891.pdf) [[code]](https://github.com/thuiar/CDAC-plus)
 4. **Dialogue State Induction Using Neural Latent Variable Models** (MultiWOZ 2.1/SGD) `IJCAI 2020`  [[pdf]](https://www.ijcai.org/proceedings/2020/0532.pdf)
 
+#### others SLU
+1. **Text is no more Enough! A Benchmark for Profile-based Spoken Language Understanding** `AAAI 2022`[[pdf]](https://arxiv.org/pdf/2112.11953)[[code]](https://github.com/LooperXX/ProSLU)
+
+
 ## LeaderBoard
 ### ATIS
 
