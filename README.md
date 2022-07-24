@@ -456,7 +456,12 @@ The taxonomy and frontiers of our survey can be summarized into this picture bel
 5. **Joint Multiple Intent Detection and Slot Filling Via Self-Distillation**  (MixATIS/MixSNIPS) `ICASSP 2022` 
 6. **Slim: Explicit Slot-Intent Mapping with Bert for Joint Multi-Intent Detection and Slot Filling**(MixATIS/MixSNIPS) `ICASSP 2022`
 7. **Exploiting Topic Information for Joint Intent Detection and Slot Filling**(MixATIS/MixSNIPS) `ACL 2022`
+8. **Focus on Interaction: A Novel Dynamic Graph Model for Joint Multiple Intent Detection and Slot Filling** `IJCAI-21`
+
+
+
 ### Chinese SLU
+
 
 1. **Injecting Word Information with Multi-Level Word Adapter for Chinese Spoken Language Understanding** (CAIS/ECDT-NLU) `arXiv 2020` [[pdf]](https://arxiv.org/pdf/2010.03903.pdf) [[code]](https://github.com/AaronTengDeChuan/MLWA-Chinese-SLU) 
 2. **CM-Net: A Novel Collaborative Memory Network for Spoken Language Understanding** (ATIS/SNIPS/CAIS) `EMNLP 2019` [[pdf]](https://www.aclweb.org/anthology/D19-1097.pdf) [[code]](https://github.com/Adaxry/CM-Net) 
